@@ -1,5 +1,5 @@
 <h2 align="left">Olá! Eu sou Pamela👋</h2>
-<p>🎓Estudante/ Desenvolvedora em formação <br>
+<p>🎓Desenvolvedora em formação com foco em backend<br>
 🚀Em busca a minha primeira oprtunidade na área da tecnoligoa
 </p>
 
