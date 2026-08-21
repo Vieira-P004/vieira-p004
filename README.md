@@ -1,6 +1,6 @@
 <h2 align="left">Olá! Eu sou Pamela👋</h2>
 Estudante de informática no Instituto Federal de Sergipe, com foco voltado para fullstack
-###
+
 
 ## 🌐 Socials:
 <div align="left">
