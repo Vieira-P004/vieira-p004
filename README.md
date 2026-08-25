@@ -26,6 +26,7 @@ Estudante de informática no Instituto Federal de Sergipe, com foco voltado para
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Vieira-P004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vieira-P004)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vieira-P004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
